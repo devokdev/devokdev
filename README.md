@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+RAG+Systems+%7C+AI+Agents;Workflow+Automation+%7C+Scalable+AI+Systems;Building+Production-Grade+AI+Applications;FastAPI+%7C+React+%7C+LLMs+%7C+Retrieval+Systems" alt="Typing SVG" />
